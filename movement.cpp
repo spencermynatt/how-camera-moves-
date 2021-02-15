@@ -245,7 +245,8 @@ void processInput(GLFWwindow* pointer_to_window)
 
 	//0.0f                       
 	//0.0f   +      x        =     new position that world moves to 
-	//3 f                        
+	//3 f         
+	//this might actually just change all the vectors not just camera position as i am looking at my graph
 }
 void framebuffer_size_callback(GLFWwindow* pointer_to_window, int width, int height)
 {
