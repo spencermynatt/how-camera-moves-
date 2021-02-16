@@ -1,4 +1,6 @@
 
+// THE VIEW MATRIX IS JUST A TRANSLATION THAT ALL THE OBJECTS PUT INTO THE VERTEX SHADER FOLLOW BASED ON THE INPUT
+
 //Objects each have a transformation, which gives them their position, rotation, etc.. in world space
 //we need to put that on the screen
 	//THE EXPLANATION FOR THIS CODE IS COMPLETELY WRONG
