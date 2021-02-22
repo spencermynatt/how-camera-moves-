@@ -54,6 +54,7 @@ int main() {
 	
 	glfwInit();
 	GLFWwindow* pointer_to_window = glfwCreateWindow(800, 600, "E", NULL, NULL);
+	//rather than just copy and pasting a the function we just pass it to a pointer
 	if (pointer_to_window == NULL)
 	{
 		cout << "terminate";
